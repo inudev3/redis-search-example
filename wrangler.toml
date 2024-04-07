@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-07"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://apn1-dear-moray-34302.upstash.io"
+UPSTASH_REDIS_REST_TOKEN = "AYX-ASQgZGQyOTIzOGMtZmQ1YS00MGIwLWE1OTItMmJmNTFiNTRjMDNjMjViMGZmMjcyMjc2NGE1NWJhZDViNzA5NjlhN2QzNDc="
